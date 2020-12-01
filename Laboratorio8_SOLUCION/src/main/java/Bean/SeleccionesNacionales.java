@@ -38,4 +38,7 @@ public class SeleccionesNacionales {
     public void setEstadios_idEstadio(int estadios_idEstadio) {
         this.estadios_idEstadio = estadios_idEstadio;
     }
+
+    //hola
+
 }
